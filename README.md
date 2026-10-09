@@ -4,7 +4,13 @@ Projet de fin d'études (PFE) – Développement digital, option Web Full Stack 
 
 Application web full stack permettant à un restaurant de digitaliser la réservation de tables, la consultation du menu et la prise de commande en ligne.
 
-##  Fonctionnalités
+🌐 **Démo en ligne : [cozy-crisp-b269de.netlify.app](https://cozy-crisp-b269de.netlify.app/)**
+
+## 📸 Aperçu
+
+![Krantic – menu et commande](https://chaimaeoutaleb.github.io/portfolio/images/krantic.jpg)
+
+## ✨ Fonctionnalités
 
 - **Menu dynamique** : liste des plats et page de détail produit
 - **Panier et commande** : ajout au panier, validation de commande, suivi du statut
@@ -14,7 +20,7 @@ Application web full stack permettant à un restaurant de digitaliser la réserv
 - **Formulaire de contact** et messagerie client
 - Interface **responsive** (Tailwind CSS, Material UI)
 
-## Stack technique
+## 🛠️ Stack technique
 
 | Couche | Technologies |
 |---|---|
@@ -23,7 +29,7 @@ Application web full stack permettant à un restaurant de digitaliser la réserv
 | Base de données | MySQL |
 | Paiement / Auth | PayPal JS SDK, Clerk |
 
-## Structure
+## 📁 Structure
 
 ```
 krantic-restaurant/
@@ -31,7 +37,7 @@ krantic-restaurant/
 └── frontend/   # Application React (Vite)
 ```
 
-## Endpoints principaux (API)
+## 🔌 Endpoints principaux (API)
 
 | Méthode | Route | Description |
 |---|---|---|
@@ -43,7 +49,7 @@ krantic-restaurant/
 | POST | `/api/reservations` | Réserver une table |
 | POST | `/api/contact` | Envoyer un message |
 
-## Installation en local
+## 🚀 Installation en local
 
 **Prérequis** : PHP 8.2+, Composer, Node.js 18+, MySQL
 
@@ -66,7 +72,7 @@ cp .env.example .env      # renseigner les clés Clerk et PayPal (sandbox)
 npm run dev
 ```
 
-## Auteure
+## 👩‍💻 Auteure
 
 **Chaimae Outaleb** – Développeuse Web Full Stack Junior
-[LinkedIn](https://www.linkedin.com/in/chaimae-outaleb-dev/)
+[Portfolio](https://chaimaeoutaleb.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/chaimae-outaleb-dev/) · [GitHub](https://github.com/chaimaeoutaleb)
