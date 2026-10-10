@@ -4,8 +4,6 @@ Projet de fin d'études (PFE) – Développement digital, option Web Full Stack 
 
 Application web full stack permettant à un restaurant de digitaliser la réservation de tables, la consultation du menu et la prise de commande en ligne.
 
-🌐 **Démo en ligne : [cozy-crisp-b269de.netlify.app](https://cozy-crisp-b269de.netlify.app/)**
-
 ## 📸 Aperçu
 
 ![Krantic – menu et commande](https://chaimaeoutaleb.github.io/portfolio/images/krantic.jpg)
